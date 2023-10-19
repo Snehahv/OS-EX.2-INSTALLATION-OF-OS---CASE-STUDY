@@ -10,6 +10,7 @@ To install OS in VM Virtual Box on Windows
 ![image16](https://github.com/Snehahv/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/119104131/576e8d65-dfc3-448b-9633-e654412ce8eb)
 
 3 Select "New" option to create a new Virtual OS. 
+https://github.com/Shrruthilaya-Gangadaran/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/blob/main/image17.png
 
 4 Fill in the name for Virtual OD & Choose the downloaded IOS Image. Click Next 
 
