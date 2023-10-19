@@ -7,7 +7,8 @@ To install OS in VM Virtual Box on Windows
 1 Download the Ubuntu ISO (Desktop version) on the official site and the VM Virtual Box.
 
 2 Install VM Virtual Box and run it, we can see something like this.
-![](./image16.png)
+![image16](https://github.com/Snehahv/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/119104131/576e8d65-dfc3-448b-9633-e654412ce8eb)
+
 3 Select "New" option to create a new Virtual OS. 
 
 4 Fill in the name for Virtual OD & Choose the downloaded IOS Image. Click Next 
